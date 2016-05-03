@@ -12,5 +12,5 @@ Contains source and object code built from:
 - PCRE `8.37` (BSD 3-clause)
 
 This project provides the following dependencies needed by [litehelpers / cordova-sqlite-ext](https://github.com/litehelpers/cordova-sqlite-ext):
-- `sqlite3.h`, `sqlite3.c` - SQLite `3.8.10.2` amalgamation needed to build iOS and Windows versions
-- `libs` - [liteglue / Android-sqlite-connector](https://github.com/liteglue/Android-sqlite-connector) JAR and [litehelpers / Android-sqlite-native-driver-regexp-pcre](https://github.com/litehelpers/Android-sqlite-native-driver-regexp-pcre) NDK libraries built with SQLite `3.8.10.2` amalgamation and PCRE `8.31`
+- `sqlite3.h`, `sqlite3.c` - SQLite `3.12.2` amalgamation needed to build iOS and Windows versions
+- `libs` - [liteglue / Android-sqlite-connector](https://github.com/liteglue/Android-sqlite-connector) JAR and [litehelpers / Android-sqlite-native-driver-regexp-pcre](https://github.com/litehelpers/Android-sqlite-native-driver-regexp-pcre) NDK libraries built with SQLite `3.12.2` amalgamation and PCRE `8.37`

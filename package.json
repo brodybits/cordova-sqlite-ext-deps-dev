@@ -1,6 +1,6 @@
 {
   "name": "cordova-sqlite-ext-deps",
-  "version": "0.3.1",
+  "version": "0.3.2-cbtest",
   "description": "cordova-sqlite-ext dependencies",
   "main": "404.js",
   "scripts": {
